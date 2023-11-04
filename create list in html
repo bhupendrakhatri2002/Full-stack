@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My first website</title>
+    <link rel="shortcut icon" href="img.png" type="image/png">
+    <link rel="shortcut icon" href="new.avif" type="image/avif">
+</head>
+<body>
+    <h1 >ordered list</h1>
+<ol type="a" >
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+        <li>item 4</li>
+        <li>item 5</li>
+    </ol>
+<hr >
+<h1>images tags</h1>
+<img height="300" src="https://images.unsplash.com/photo-1695504236952-37306fc71896?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80" alt="network error">
+<img src="new.avif" alt="" height="300" width="200">
+
+<hr>
+
+<h1 >unordered list</h1>
+<ul type="circle">
+    <li>item 1</li>
+    <li>item 2</li>
+    <li>item 3</li>
+    <li>item 4</li>
+    <li>item 5</li>  
+</ul>
+<dl>
+    <li>item 1</li>
+    <li>item 1</li>
+    <li>item 1</li>
+</dl>
+</body>
+    
+</html>
