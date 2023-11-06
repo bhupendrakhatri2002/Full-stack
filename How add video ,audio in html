@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en"> 
+    <!--  question -why use lan eng -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>day 4 of html</title>
+    <link rel="shortcut icon" href="img.jpg" type="image/jpg">
+     <!--  question if not put type in favicon also it show why -->
+</head>
+<body>
+    <!-- this is inline element -->
+  <!-- <img src="https://plus.unsplash.com/premium_photo-1683910767532-3a25b821f7ae?ixlib=rb4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=508&q=80" alt="error" height="300" width="300"> -->
+  <img src="img.jpg" alt="" height="200" width="200">
+
+<!-- this is block element -->
+  <h1 >hello</h1>
+  <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br> Excepturi quia quibusdam dignissimos voluptates. <br>Exercitationem hello ea dolore perspiciatis hic praesentium iure magnam! </p>
+  <hr>
+  
+  <h1>lists</h1>
+  <ol type="1">
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ol>
+  <!-- this  is block element -->
+  <p><a href=""> download now</a></p>
+<!-- this is inline element -->
+  <a href="download"> go to download</a>
+  <a href="">yes do it</a>
+
+
+  <hr>
+  <!-- iframe use for publish the video or audio frome other site to other site or plateform -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/xOsZj48vXGA?si=wN4dGqeS7p-4Mzp_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+ <!-- This is inline element -->
+  <video height="200" width="400" controls  loop src="Tu Jhoothi Main Makkaar (2023) Bollywood Hindi Full Movie HEVC 720p.mkv"></video> 
+  <video controls autoplay loop src="vid.mp4"></video><br><br>
+
+  <audio autoplay controls src="glossy-168156.mp3"></audio><br><br>
+  <audio autoplay controls src="https://www.chosic.com/free-music/happy/"></audio>
+  
+</body>
+</html>
